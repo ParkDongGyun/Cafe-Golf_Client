@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorred">#F53636</color>
+    <color name="colorblack">#3D3A3A</color>
+    <color name="colorgreen">#1C9C1C</color>
+    <color name="colorline">#6F6F6F</color>
+    <color name="colorwhite">#F0EFEF</color>
+    <color name="colorgray">#AFAFAF</color>
+
+    <color name="cal_white">#C9C7C7</color>
+    <color name="cal_red">#F81D1D</color>
+    <color name="cal_blue">#008EFF</color>
+</resources>

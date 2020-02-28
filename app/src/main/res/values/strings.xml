@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cafe-Golf</string>
+    <string name="name_front">Caf</string>
+    <string name="name_behind">e-Golf</string>
+
+    <string name="connect_network">OK</string>
+
+    <string name="dateformat">yyyy-MM-dd HH:mm:ss</string>
+    <string name="dateformat_date">YY년 MM월 dd일</string>
+    <string name="dateformat_time">HH시 mm분</string>
+    <string name="membername">%s 골퍼님</string>
+    <string name="lessoncount">남은 레슨 : %d</string>
+
+    <string name="id">id</string>
+    <string name="directory">directory</string>
+    <string name="sns_id">sns_id</string>
+    <string name="name">name</string>
+    <string name="lesson_count">lesson_count</string>
+    <string name="date">date</string>
+    <string name="member_id">member_id</string>
+    <string name="book_date">book_date</string>
+
+    <string name="noBooking">현재 예약된 날짜가 없습니다.</string>
+    <string name="book">예약하기</string>
+    <string name="address">서울특별시 서초구 명달로6길 11</string>
+
+    <string name="em_name">이름을 입력해주세요.</string>
+    <string name="em_phone">전화번호를 확인해주세요. ex)010-0000-0000</string>
+    <string name="login_problem">로그인에 문제가 발생하였습니다. 잠시 후 다시 시도해주세요.</string>
+
+    <string name="idformat">%d.</string>
+</resources>

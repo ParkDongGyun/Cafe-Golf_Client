@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="12dp"
+    android:layout_marginVertical="9dp"
+    android:background="@drawable/roundrect_white">
+
+    <TextView
+        android:id="@+id/tv_mainitem_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="9dp"
+        android:text="19년 12월 25일"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorblack"/>
+    <TextView
+        android:id="@+id/tv_mainitem_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="09시 30분"
+        android:textSize="27dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorblack"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout>
